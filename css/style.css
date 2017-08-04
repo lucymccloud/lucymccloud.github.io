@@ -1,0 +1,25 @@
+body {
+	background-color: #c1f993;
+
+	font-family: 'Neucha', cursive;
+
+}
+
+.nopadding {
+	padding: 0 !important;
+}
+
+.item img {
+	width: 100%;
+}
+
+#quiz {
+	position: absolute;
+	top: 50px;
+	left: 1000px;
+}
+
+.bild{
+	width: 300px;
+	height: 200px;
+}
